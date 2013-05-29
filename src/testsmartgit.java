@@ -7,4 +7,8 @@ public class testsmartgit {
 	 
 	 int blubb = 2;
  }
+ 
+ public static void branch1 (int a, int b){
+	 
+ }
 }
